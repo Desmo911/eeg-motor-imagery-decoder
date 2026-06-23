@@ -1,0 +1,13 @@
+64 channles
+125 seconds recording
+sampling frequency 160hz
+names of channels = fc5, fc3, c3,cp5 etc
+
+Motor imagery signals are expected around C3/C4
+
+
+| Event | Meaning             |
+| ----- | ------------------- |
+| T0    | Brain at rest       |
+| T1    | Imagined movement A |
+| T2    | Imagined movement B |

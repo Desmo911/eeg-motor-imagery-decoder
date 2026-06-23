@@ -1,0 +1,8 @@
+Feature extraction converts EEG activity into numerical measurements fit for machine learning
+
+Motor cortex channels are selected to focus on motion related neural activity
+
+Each row represents one neural trial
+Each column represents signal power from a motor cortex channel
+
+These are the raw EEG signals taken from epochs and made into numerical format for machines to understand (brain  computer interference)

@@ -1,0 +1,5 @@
+After filtering the mu and beta waves, the eeg graph looked a little more cleaner as it removed some unrelated brain activit.
+
+Epoches are small segments of the eeg, which looked quite more noisy because they are basically zoomed in. Some patterns were there which were consistent throughout on the epochs graph.
+
+ I wonder what these signals are for, the imagined movement, what is it?

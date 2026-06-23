@@ -1,0 +1,3 @@
+data/
+eeg_env/
+__pycache__/
